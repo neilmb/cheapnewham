@@ -1,0 +1,101 @@
+.. title: 21 Things: Check!
+.. slug: 21-things-done
+.. date: 2013/03/21 08:17:55
+.. tags: 21things
+.. link: http://www.kb6nu.com/products-page/general-interest/21-things-to-do-after-you-get-your-amateur-radio-license-kindle/
+.. description: 
+
+
+`Dan Romanchik KB6NU <http://www.kb6nu.com/>`_ has an ebook called *21 Things
+to Do After You Get Your Amateur Radio License*.  I ran across his blog while
+searching after one of the things I've been tracking down (`building an antenna
+I think <http://www.kb6nu.com/21-things-to-do-build-an-antenna/>`_).  I
+encourage you to `buy his book
+<http://www.kb6nu.com/products-page/general-interest/21-things-to-do-after-you-get-your-amateur-radio-license-kindle/>`_
+if you like what you see here.  I've been using his post (not his book yet) as a guide for things I might be
+interested in.
+
+Already Done
+------------
+
+Here are the things from KB6NU's list that I've already done.
+
+Buy some tools
+  This was one that I started with right away.  I have some funds from my job
+  to buy equipment and supplies and I made use of that to get a soldering
+  iron, solder, de-soldering wick, flush cutting pliers and chain nose pliers.
+  These were the first things that seemed like they would help me on my long
+  term goal of building a Softrock SDR receiver (and transmitter?)
+
+Buy a radio
+  This is easier now than ever before. Recent Chinese handheld, dual-band
+  VHF/UHF radios have received very good reviews for function.  The primary
+  concern is the difficulty of programming the memories on the radio from the
+  keypad.  But open source software to the rescue: `CHIRP
+  <http://chirp.danplanet.com>`_ is cross-platform radio programming software
+  for handheld radios.  I bought a `Baofeng UV-5R
+  <http://www.amazon.com/BaoFeng-UV-5R-136-174-400-480-Dual-Band/dp/B007H4VT7A>`_
+  from Amazon and I made sure to buy the programming cable off of eBay (`e.g.
+  this one
+  <http://www.ebay.com/itm/NEW-USB-Programming-Cable-for-Baofeng-UV-5R-666S-777S-888S-and-Kenwood-radio-/160982904399>`_).
+
+  Since I got the radio, I've had no problems with getting it programmed for
+  my local repeaters, even to the point of re-programming it when I went to
+  visit San Diego with the repeaters in that area.  I love the radio and I
+  love the fact that I could buy it very reasonably and get on the air.
+
+Get on the air
+  Buying a radio led naturally to getting on the air.  It did take me a while
+  to get up the courage to press the Push-To-Talk button and say my call, but
+  I finally did while on my trip in San Diego (thanks NC7V!).  Since then I've
+  been able to get on the weekly ARES traffic nets on our local repeaters.
+  Now I'm planning for a medium-term goal of getting on the air on HF as well.
+
+Buy a digital multimeter (DMM)
+  This was also one of the tools that I bought initially. The most useful
+  thing I've done with it recently is as a continuity tester to see how my
+  initial solder joints turned out.
+
+Upgrade to General
+  I took care of this right off the bat by taking my General test at the same
+  time as my Technician test.  With the small size of the question pools and my 
+  hard-won expertise memorizing the answers to tests (twenty-second grade
+  baby!) this wasn't too hard for me.  It is nice to be able to think about
+  operating on all of the HF bands without the novice restrictions, although
+  I'll probably be doing CW anyway (which I could have done on a Novice ticket).
+
+Learn the lingo
+  A strong shout-out to two online resources in this regard.  `Ham Nation
+  <http://twit.tv/hn>`_ is the podcast which got me re-interested in getting my
+  ham license. Listening to old hams like Bob Heil and Gordon West has been a
+  great way to get introduced to the excitement of the hobby.  The `QRZ Forums
+  <http://forums.qrz.com/forum.php>`_ have also been very helpful in getting a
+  sense of what is being talked about in the community right now.  Their
+  `online swap meet
+  <http://forums.qrz.com/forumdisplay.php?7-Ham-Radio-Gear-For-Sale>`_ is a
+  great way to find out what equipment generally costs. (And even more, what
+  types of equipment are out there to be dreamed of!)
+
+  Another important resource that I had known of before getting my license,
+  but was reminded about on QRZ, is `webSDR.org <http://www.websdr.org>`_
+  where software defined radios (SDR) from around the world (primarily in
+  Europe, but also in the United States) are available for listening to the
+  ham bands over the web.  This has been an interesting way to hear how people
+  talk on SSB.  Once I learn the letters, I imagine I'll use the for code
+  practice too (at least until my receiver kit arrives and gets built along
+  with my antenna).
+
+Subscribe to mailing lists, blogs, and podcasts
+  As I just said, these were an important way to get to know the lingo and the
+  pulse of the community.  I've learned about lots of things that I don't
+  think I would have run across without the help I got from these sources
+  including `Tayda Electronics <http://www.taydaelectronics.com>`_, Quagi
+  antennas, the `Peaberry SDR <http://ae9rb.com/>`_, and some cool circuits
+  like frequency counters and code oscillators.
+
+HAVE FUN!
+  This one is happening a lot, perhaps too much as I spend time online
+  researching my next projects or learning how antennas work.  I love the
+  fun of hearing voices come in on my handheld and especially the fun of
+  speaking on the air.  I'm looking forward to lots more fun in the coming
+  months and years.

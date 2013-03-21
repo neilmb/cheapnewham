@@ -1,0 +1,36 @@
+body { 
+    font-size: 19px;
+    font-family: "Droid Serif";
+    line-height: 28px;
+}
+
+.navbar {
+    font-family: "Ubuntu";
+    font-size: 24px;
+}
+
+.navbar .brand {
+    font-size: inherit;
+    text-shadow: 0 1px 0 #fff;
+}
+
+.navbar .nav {
+    padding: inherit;
+}
+
+.postbox h1 {
+    font-family: "Ubuntu";
+}
+
+.postbox .posted {
+    font-family: "Ubuntu";
+    font-size: 0.9em;
+    color: #ccc;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+h1 {
+    font-size: 1.95em;
+}
+
