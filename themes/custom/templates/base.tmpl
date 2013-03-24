@@ -1,6 +1,5 @@
 ## -*- coding: utf-8 -*-
 <%namespace file="base_helper.tmpl" import="*"/>
-${set_locale(lang)}
 <!DOCTYPE html>
 <html lang="${lang}">
 <head>
@@ -8,21 +7,20 @@ ${set_locale(lang)}
     ${html_head()}
     <%block name="extra_head">
     </%block>
-    ${extra_head_data}
 </head>
 <body>
 <!-- Menubar -->
 <div class="navbar navbar-fixed-top">
     <div class="navbar-inner">
         <div class="container">
-
+        
         <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
         <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
-        </a>
-
+        </a>        
+        
             <a class="brand" href="${abs_link('/')}">
             ${blog_title}
             </a>
@@ -40,6 +38,7 @@ ${set_locale(lang)}
                     <li>${html_translations()}</li>
                 %endif
                 </%block>
+                <%block name="sourcelink"> </%block>
                 </ul>
             </div>
         </div>
@@ -49,19 +48,18 @@ ${set_locale(lang)}
 <div class="container-fluid" id="container-fluid">
     <!--Body content-->
     <div class="row-fluid">
-    <div class="span2">
-    <!-- sidebar? -->
-    </div>
+    <div class="span2"></div>
     <div class="span8">
     <%block name="content"></%block>
     </div>
-    </div>
+    </div> 
     <!--End of body content-->
 </div>
 <div class="footerbox">
     ${content_footer}
 </div>
-${late_load_js()}
+${html_social()}
 ${analytics}
+${late_load_js()}
     <script type="text/javascript">jQuery("a.image-reference").colorbox({rel:"gal",maxWidth:"80%",maxHeight:"80%",scalePhotos:true});</script>
 </body>
