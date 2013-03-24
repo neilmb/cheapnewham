@@ -4,6 +4,10 @@ body {
     line-height: 28px;
 }
 
+dt, dd {
+    line-height: 28px;
+}
+
 .navbar {
     font-family: "Ubuntu";
     font-size: 24px;
