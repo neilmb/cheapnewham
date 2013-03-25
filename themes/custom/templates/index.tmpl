@@ -11,7 +11,6 @@
         class="published"
         datetime="${post.date.isoformat()}">${post.date.strftime(date_format)}</time>
         </div>
-        <hr>
         ${post.text(lang, index_teasers)}
         ${disqus.html_disqus_link(post.permalink()+"#disqus_thread", post.base_path)}
         </div>
