@@ -2,6 +2,7 @@ body {
     font-size: 19px;
     font-family: "Droid Serif";
     line-height: 28px;
+    padding-top: 0px;
 }
 
 dt, dd {
@@ -14,12 +15,13 @@ dt, dd {
 }
 
 .navbar .brand {
-    font-size: inherit;
+    font-size: 40px;
     text-shadow: 0 1px 0 #fff;
 }
 
-.navbar .nav {
-    padding: inherit;
+.navbar .nav>li>a {
+    margin-top: 10px;
+    padding-bottom: 0px;
 }
 
 .postbox h1 {
@@ -36,5 +38,14 @@ dt, dd {
 
 h1 {
     font-size: 1.95em;
+}
+
+.row-fluid>.span2 {
+    text-align: center;
+    padding-top: 1em;
+}
+
+.footerbox {
+    font-family: "Ubuntu";
 }
 
