@@ -1,25 +1,50 @@
 body { 
-    font-size: 19px;
-    font-family: "Droid Serif";
-    line-height: 28px;
+    font-size: 23px;
+    font-family: "Vollkorn";
+    line-height: 35px;
+    padding-top: 0px;
+}
+
+dt, dd {
+    line-height: 35px;
+}
+
+dt {
+    font-family: "Ubuntu"
+}
+
+h1 {
+    font-family: "Ubuntu";
+    font-size: 1.95em;
+}
+
+h2 {
+    font-family: "Ubuntu";
+}
+
+.row-fluid>.span2 {
+    text-align: center;
+    padding-top: 1em;
 }
 
 .navbar {
     font-family: "Ubuntu";
-    font-size: 24px;
+    font-size: 28px;
 }
 
 .navbar .brand {
-    font-size: inherit;
+    font-size: 48px;
     text-shadow: 0 1px 0 #fff;
 }
 
-.navbar .nav {
-    padding: inherit;
+.navbar .nav>li>a {
+    margin-top: 10px;
+    padding-bottom: 0px;
 }
 
-.postbox h1 {
-    font-family: "Ubuntu";
+.postbox {
+    margin-top: 2em;
+    margin-bottom: 3em;
 }
 
 .postbox .posted {
@@ -28,9 +53,15 @@ body {
     color: #ccc;
     padding-left: 0;
     margin-left: 0;
+    padding-bottom: 15px;
 }
 
-h1 {
-    font-size: 1.95em;
+.footerbox {
+    font-family: "Ubuntu";
+    font-size: 0.8em;
 }
 
+.postlist>li {
+    line-height: 28px;
+    list-style: none;
+}
