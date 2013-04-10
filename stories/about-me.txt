@@ -5,6 +5,11 @@
 .. link: 
 .. description: 
 
+.. figure:: ../headshot.jpg
+    :alt: Profile Picture
+    :align: right
+  
+    ..
 
 My name is Neil Martinsen-Burrell.  I'm a math professor by profession and a
 serial hobby monogamist by avocation.  I've been into (in no particular order)
