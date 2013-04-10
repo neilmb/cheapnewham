@@ -6,6 +6,15 @@
 .. description: 
 
 
+.. figure:: ../21-things-cover.jpg
+    :height: 205px
+    :width: 128px
+    :align: left
+    :alt: 21 Things Book Cover
+
+    ..
+
+
 `Dan Romanchik KB6NU <http://www.kb6nu.com/>`_ has an ebook called *21 Things
 to Do After You Get Your Amateur Radio License*.  I ran across his blog while
 searching after one of the things I've been tracking down (`building an antenna

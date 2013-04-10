@@ -1,5 +1,5 @@
-.. title: Welcome to New Cheap Ham!
-.. slug: welcome-to-new-cheap-ham
+.. title: Welcome to Cheap New Ham!
+.. slug: welcome-to-cheap-new-ham
 .. date: 2013/03/15 21:40:40
 .. tags: 
 .. link: 
