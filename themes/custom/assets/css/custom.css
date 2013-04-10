@@ -65,3 +65,9 @@ h2 {
     line-height: 28px;
     list-style: none;
 }
+
+div#cboxCurrent {
+    font-size: 0.6em;
+    font-family: "Ubuntu";
+    line-height: 20px;
+}
