@@ -1,10 +1,7 @@
-.. title: HF for misers
-.. slug: hf-for-misers
-.. date: 2013/05/21 10:01:50
-.. tags: 
-.. link: 
-.. description: HF ham rigs for cheap
-
+---
+layout: post
+title: HF for misers
+---
 
 Getting on the air has to be the ultimate goal for any new ham radio operator,
 like myself.  With the advent of inexpensive dual-band handheld transceivers
@@ -16,33 +13,25 @@ people who are just getting into ham radio, this is cost prohibitive. Or maybe
 someone with experience on VHF/UHF just doesn't want to spend that much to try
 something new.
 
-What to Buy
------------
+# What to Buy
 
-.. figure:: ../kenwoodts520se.jpg
-    :scale: 50
-    :alt: Kenwood TS-520SE
-
-    A 30 year old Kenwood TS-520SE in excellent working condition
+<img src="/images/kenwoodts520se.jpg" width="70%" alt="Kenwood TS-520SE">
 
 For the cheap new ham, a used radio is an ideal solution to this problem.
 There are numerous models of very nice older radios from the major brands:
 Icom, Yaesu, Kenwood, TenTec, etc.  It can be difficult to keep all of the
-model numbers straight, but the reviews at `eHam.net
-<http://www.eham.net/reviews/>`_ can be a good way to get oriented to a model
-you aren't familiar with.  I usually just `google the model number
-<http://google.com/?q=Kenwood+TS520SE>`_ and the eHam reviews are usually
+model numbers straight, but the reviews at [eHam.net](http://www.eham.net/reviews/) can be a good way to get oriented to a model
+you aren't familiar with.  I usually just [google the model number](http://google.com/?q=Kenwood+TS520SE) and the eHam reviews are usually
 among the first few results.
 
-WB0NNI has `an interesting suggestion
-<http://wb0nni.dakotamade.com/firstrig.html>`_ to consider a particular type
-of radio from the later 1970s and early 1980s.  In the process of
-transitioning from vacuum tube to solid state radios, manufacturers produced a
-group of "hybrid" radios that had solid state signal paths but used vacuum
-tubes for the final amplification stage in the transmitter.  As detailed
-on that page, there are a number of advantages to these hybrid rigs, including
-the robustness of the tube output stages and the wide availability of
-replacement parts due to the ubiquity of these models.
+WB0NNI has [an interesting suggestion](http://wb0nni.dakotamade.com/firstrig.html) to consider a
+particular type of radio from the later 1970s and early 1980s.  In the process
+of transitioning from vacuum tube to solid state radios, manufacturers
+produced a group of "hybrid" radios that had solid state signal paths but used
+vacuum tubes for the final amplification stage in the transmitter.  As
+detailed on that page, there are a number of advantages to these hybrid rigs,
+including the robustness of the tube output stages and the wide availability
+of replacement parts due to the ubiquity of these models.
 
 The picture above shows the Kenwood TS-520SE that I bought from its original
 owner.  It is old in years, but it is in excellent condition.  It works well
@@ -51,12 +40,11 @@ had a receiver that many people compare favorably with much more expensive
 newer models.  An additional advantage of these oder radios is the relative
 simplicity of their controls.  There are still plenty of switches and knobs
 and I've read through the manual multiple times and still need some reminding,
-but this is a far cry from the button-filled faceplates of the `newest radios
-<http://www.universal-radio.com/catalog/hamhf/3990.html>`_.
+but this is a far cry from the button-filled faceplates of the [newest
+radios](http://www.universal-radio.com/catalog/hamhf/3990.html).
 
 
-Where to Buy
-------------
+# Where to Buy
 
 You can either buy a used radio face-to-face at a hamfest or perhaps from
 someone in your local club, or you can buy online.  (I haven't been to any
@@ -65,12 +53,12 @@ recommend this option because you can see that the radio works.)  Online, you
 have two main options for buying used transceivers: eBay and dedicated ham
 radio sales sites.
 
-My radio came from a listing on `QRZ.com
-<http://forums.qrz.com/forumdisplay.php?7-Ham-Radio-Gear-For-Sale>`_ whose
-"For Sale" section has many new items listed every day.  It took a bit of
-waiting for something in my price range to come up, but someone is selling
+My radio came from a listing on
+[QRZ.com](http://forums.qrz.com/forumdisplay.php?7-Ham-Radio-Gear-For-Sale>)
+whose "For Sale" section has many new items listed every day.  It took a bit
+of waiting for something in my price range to come up, but someone is selling
 something in the $250-$400 price range a couple of times a week.  Another site
-with ham radio gear for sale by hams is `QTH.com <http://swap.qth.com/>`_,
+with ham radio gear for sale by hams is [QTH.com](http://swap.qth.com/),
 with some people posting the same items to both sites.
 
 eBay is the other big source of used radios, but as with all things sold on
@@ -84,14 +72,9 @@ auctions, that the price paid for an item is generally at or above what it is
 worth.  So, if you see something going very cheaply on eBay, beware!  There is
 probably some reason that the market has set the price where it is.
 
-.. figure:: ../ts520keydown.jpg
-    :scale: 50
-    :alt: TS-520SE 100 watts key down on 80 meters
+<img src="/images/ts520keydown.jpg" width="70%" alt="TS-520SE 100 watts key down on 80 meters"/>
 
-    TS-520SE showing 100 watts into a dummy load on 80 meters.
-
-Risks and Rewards
------------------
+# Risks and Rewards
 
 Buying a used radio is not without its risks and its rewards.  If there was an
 option for new radios in the $200-$400 price range, I think it would make

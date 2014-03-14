@@ -1,9 +1,7 @@
-.. title: Welcome to Cheap New Ham!
-.. slug: welcome-to-cheap-new-ham
-.. date: 2013/03/15 21:40:40
-.. tags: 
-.. link: 
-.. description: 
+---
+layout: post
+title: Welcome to Cheap New Ham!
+---
 
 Welcome to my new blog where I hope to blog about my experiences with amateur
 radio.  I want to share my experiences as a new ham to share my particular

@@ -3,3 +3,4 @@ cache
 output
 *.pyc
 .doit.db
+_site
