@@ -1,15 +1,9 @@
-.. title: About Me
-.. slug: about
-.. date: 2013/03/15 22:09:29
-.. tags: 
-.. link: 
-.. description: 
+---
+layout: default
+title: About Me
+---
 
-.. figure:: ../headshot.jpg
-    :alt: Profile Picture
-    :align: right
-  
-    ..
+<img src="/images/headshot.jpg" alt="Profile Picture">
 
 My name is Neil Martinsen-Burrell.  I'm a math professor by profession and a
 serial hobby monogamist by avocation.  I've been into (in no particular order)
@@ -27,8 +21,8 @@ Since I don't have a lot of money (due in part to my many past hobbies) I
 hope to build some basic gear to start listening while I am learning Morse
 Code and building/amassing the gear for transmitting.  As a computer geek, I
 would eventually like to work with Software Defined Radio (SDR), especially
-the `Softrock <http://fivedash.com/>`_ family of receivers and transmitters.
+the [Softrock](http://fivedash.com/) family of receivers and transmitters.
 
-You can find me online on Twitter (`@DrNeilMB <https://twitter.com/DrNeilMB>`_)
-and on `Google+ <https://plus.google.com/110442284873682354212?rel=author>`_.  You can
+You can find me online on Twitter ([@DrNeilMB](https://twitter.com/DrNeilMB))
+and on [Google](https://google.com/+NeilMartinsenBurrell).  You can
 also send me email at kd0ukc@qsl.net.
