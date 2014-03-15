@@ -13,16 +13,26 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
-  text-align: center;
+    font-size: 23px;
+    font-family: "Vollkorn", serif;
+    line-height: 35px;
+    padding-top: 0px;
+    text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+    font-family: "Ubuntu", sans-serif;
+}
 
-h1 { margin-bottom: 1em; }
+h1 {
+    font-size: 1.95em;
+    margin-bottom: 1em;
+}
+
+h2 {
+    font-family: "Ubuntu";
+}
+
 p { margin: 1em 0; }
 
 a         { color: #00a; }
