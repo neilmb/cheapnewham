@@ -1,3 +1,4 @@
 name: Cheap New Ham
-pygments: true
+highlighter: pygments
 baseurl: /cheapnewham
+paginate: 5
