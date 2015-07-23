@@ -76,7 +76,7 @@ could provide better performance up to that frequency limit.
 
 ## Schematic and Construction
 
-<img src="/images/arduino-iq-dds/iq_dds_schematic.jpg" width="800">
+<img src="{{ site.baseurl }}/images/arduino-iq-dds/iq_dds_schematic.jpg" width="800">
 
 In a recent mailing list message, Ashhar Farhan, the designer of the BitX and
 Minima transceivers, mentioned that he couldn't spend the time to draw
@@ -88,7 +88,7 @@ I built the circuit on a breadboard which made it easy to add the filters and to
 probe the output with the oscilloscope.  Power comes from the USB port on the
 Arduino Nano.
 
-<img src="/images/arduino-iq-dds/breadboard.jpg" width="800">
+<img src="{{ site.baseurl }}/images/arduino-iq-dds/breadboard.jpg" width="800">
 
 ## Pudding
 
@@ -99,7 +99,7 @@ testing a CW receiver, that range of frequencies is plenty for feeding into the
 audio processing stage of the receiver. It wouldn't work for making a musical
 instrument, but it should be good enough for this purpose.
 
-<img src="/images/arduino-iq-dds/iq_trace.jpg" width="800">
+<img src="{{ site.baseurl }}/images/arduino-iq-dds/iq_trace.jpg" width="800">
 
 ## Code
 
